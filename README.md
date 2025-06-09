@@ -14,4 +14,4 @@ func func() {
 }
 ```
 
-so I created a snippet `bp` to help me write that BoilerPlate code(and fill in package and func values and put my cursor at the first line of main function).
+so I created a Neovim snippet `bp` to help me write that BoilerPlate code(and fill in package and func values and put my cursor at the first line of main function).
