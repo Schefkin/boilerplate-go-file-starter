@@ -9,9 +9,9 @@ import (
     "fmt"
 )
       
-func func() {{
+func func() {
     fmt.Println("Hello, World!")
-}}
+}
 ```
 
 so I created a snippet `bp` to help me write that BoilerPlate code.
